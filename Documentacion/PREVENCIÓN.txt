@@ -1,0 +1,95 @@
+PREVENCIÓN Y MITIGACIÓN DE LA APARICIÓN DEL ALZHEIMER
+Hábitos diarios demostrados (Lancet Commission 2024 + estudios 2024-2026)
+• Dieta: Alta adherencia MIND o mediterránea (≥3 raciones verduras/día, bayas 2-3/sem, cereales integrales 3/día, pescado ≥1/sem, nueces 5/sem, aceite oliva principal; <1/sem carnes rojas/fritas, dulces, queso).
+• Ejercicio: 150-300 min/sem moderado-intenso (caminata rápida, bici, natación) + 2 sesiones fuerza.
+• Sueño: 7-9 h/noche ininterrumpida; rutina fija, sin pantallas 1 h antes.
+• Estimulación cognitiva: 30-60 min/día actividades complejas (lectura, puzzles, aprender idioma/música, ajedrez).
+• Socialización: ≥3 interacciones significativas/semana (familia, grupos, voluntariado, llamadas).
+• Control vascular: PA <130/80 mmHg, LDL <100 mg/dl (o <70 si alto riesgo), HbA1c <7% si diabetes; peso saludable (IMC 18.5-24.9).
+• Suplementos: Solo si déficit analítico (vit D 800-2000 UI/día, B12 si <300 pg/ml); omega-3 o multivitamínico sin evidencia rutinaria fuerte (Lancet 2024 prioriza dieta).
+Tabla “Qué hacer vs Qué evitar” con % reducción riesgo (estudios 2024-2026)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Hábit Qué hacerQué evitar% reducción riesgo / fuenteDietaMIND/Mediterránea alta adherenciaProcesados, azúcares, grasas saturadas35-53% Alzheimer (revisiones 2024-2025 + Morris actualizado)Ejercicio150+ min/sem moderado + fuerzaSedentarismo (<30 min/día)14-20% demencia (RR 0.80-0.86, meta 2022-2024)Sueño7-9 h/noche continua<6 h o fragmentado20-30% menor declive (cohorts 2021-2025)Estimulación cognitivaActividades complejas diariasPasividad (TV >2 h/día)Mejora reserva + multidominio reduce declive (FINGER/AgeWell.de 2024)SocializaciónInteracciones frecuentesAislamiento socialPAF 5%; reducción significativa (UK Biobank 2022-2024)Control vascularPA <130, LDL bajo, glucemia controladaHipertensión no tratada, LDL alto, obesidadPAF 7% cada uno (hipertensión/LDL); 20-40% con control (meta 2022)Tabaco / AlcoholNunca fumar, ≤14 unidades/semFumar cualquier cantidad, exceso alcoholPAF tabaco 2-5%, alcohol exceso; cesación reduce (cohorts 2023)Multidominio (combinado)4-5 hábitos estructuradosNinguno o <245% casos prevenibles (Lancet 2024); 46.81% menor declive (estudio 2025); 13% mejor cognición estructurado vs autoguiado (US POINTER 2025)
+Chequeos médicos recomendados (SNS España/Cataluña)
+• Anual (todas edades con riesgo): Tensión, perfil lipídico completo, glucemia/HbA1c, IMC → 0 € (tarjeta sanitaria); privado 50-100 €.
+• Cada 1-2 años >50 años: Audiometría + revisión oftalmológica completa → 0 € SNS o 40-80 € privado.
+• >60 años o factores riesgo: Screening cognitivo (MoCA) + consulta neurología si alteración; biomarcadores sangre (p-tau/Aβ) emergente → 0 € derivada SNS o 150-300 € privado.
+• Chequeo preventivo completo (vascular + cognitivo): 0 € SNS derivado; privado 200-500 € (ACE/Quirón).
+Enlaces: CatSalut https://catsalut.gencat.cat ; Ministerio https://www.sanidad.gob.es ; ACE https://www.acebarcelona.org/
+Apps recomendadas (evidencia 2024-2026)
+• BrainHQ: Entrenamiento cognitivo (evidencia US POINTER 2025 multidominio) → gratuita básica, premium 10-15 €/mes.
+• MyFitnessPal: Dieta y calorías → gratuita.
+• Google Fit / Apple Health: Ejercicio + sueño tracking → gratuita.
+• Sleep Cycle: Monitoreo sueño → gratuita.
+• The Mind Guardian (España 2025): Cribado IA memoria >55 años → gratuita Android.
+• Elevate: Estimulación cognitiva diaria → gratuita + premium 5 €/mes.
+Lista oficial IMSERSO: https://crealzheimer.imserso.es/documentacion/recursos/aplicaciones-moviles
+Aspectos legales relevantes (España/Cataluña 2026)
+• Documento Voluntades Anticipadas (DVA/Testamento Vital): Expresa límites tratamientos en demencia futura (no RCP, no alimentación artificial, sedación, eutanasia si ley). Gratuito; formalizar en CAP/hospital (simplificado 2024 Cataluña), 3 testigos o notario (~50-150 €). Inscripción Registro autonómico: 0 €, acceso Historia Clínica Compartida.
+Enlace Cataluña: https://tramits.gencat.cat/es/tramits/tramits-temes/Inscripcio-al-Registre-de-voluntats-anticipades
+Teléfono: Salud Responde 061 o 93 563 61 50 (Hospital Sant Pau).
+• Apoderamiento preventivo: Designar representante legal anticipado (notarial ~100 €).
+• Derechos cuidadores: Permisos retribuidos cuidado familiar + prestaciones Ley Dependencia (solicitar en SS).
+Recursos y contactos actualizados 2026 (España/Cataluña)
+• CEAFA nacional: Tel 948 17 45 17; ceafa@ceafa.es; https://www.ceafa.es
+• Alzheimer Catalunya: Tel 93 459 22 94; info@alzheimercatalunya.org; https://alzheimercatalunya.org/
+• ACE Alzheimer Center Barcelona: Tel 93 430 47 20; https://www.acebarcelona.org/
+• Lancet 2024 completo: https://www.thelancet.com/journals/lancet/article/PIIS0140-6736(24)01296-0/fulltext

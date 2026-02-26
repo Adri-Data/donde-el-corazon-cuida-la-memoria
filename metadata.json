@@ -1,0 +1,7 @@
+{
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "name": "Donde el corazón cuida la memoria",
+  "description": ""
+}
